@@ -62,7 +62,7 @@ The models are trained and evaluated on the **MNIST** dataset.
 
 1.  Clone the repository.
     ```bash
-    git clone https://github.com/kaitosuzuki-CS/DynamicTransformer.git
+    git clone https://github.com/kaitosuzuki-CS/dynamic-transformer.git
     cd DynamicTransformer
     ```
 2.  Install dependencies using Conda:
